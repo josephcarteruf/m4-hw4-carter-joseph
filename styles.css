@@ -1,0 +1,45 @@
+header {
+    margin: 50px 0;
+    font-size: 30px; 
+}
+
+a {
+    color: rgb(255, 255, 255)
+}
+
+section.studio {
+    text-align: center;
+    font-size: 60px;
+    color: rgb(0, 33, 165);
+    background-image: url("https://img.freepik.com/premium-photo/abstract-orange-textured-background_762118-2838.jpg");
+    padding: 20px 0 50px;
+}
+
+body {
+    background-color: rgb(0, 33, 165);
+    color: rgb(255, 255, 255);
+    font-size: 25px;
+    max-width: 850px;
+    margin: auto;
+}
+
+h1, h2 {
+    text-align: center;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+h2 {
+    color:rgb(250, 70, 22)
+}
+
+footer {
+    margin: 15px 0;
+    text-align: center;
+}
+
+section.image {
+    align-items: center;
+}
